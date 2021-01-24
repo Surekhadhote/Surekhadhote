@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 
-- 📫 How to reach me **dhotesurekha39@gmail.com**
+- 📫 How to reach me: **dhotesurekha39@gmail.com**
 - ⚡ Fun fact: **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
