@@ -1,4 +1,4 @@
-### <h1 align="center">Hello 👋, I'm Surekha</h1>
+### <h1 align="center">Hello 👋, I'm <a target="_blank" href="">Surekha</h1>
 <h3 align="center">I’m a Patricia, open source enthusiast and focused on developing competitive programming skills.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surekhadhote&label=Profile%20views&color=0e75b6&style=flat" alt="surekhadhote" /> </p>
 
@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surekhadhote&show_icons=true&locale=en&layout=compact" alt="surekhadhote" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=surekhadhote&show_icons=true&locale=en" alt="surekhadhote" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=surekhadhote&show_icons=true&locale=en" alt="surekhadhote" /></p>
 
 
 
