@@ -1,5 +1,5 @@
 ### <h1 align="center">Hello 👋, I'm <a target="_blank" href="">Surekha</h1>
-<h3 align="center">I’m a Patricia, open source enthusiast and focused on developing competitive programming skills.</h3>
+<h3 align="center">I’m Inquisitive person, who loves development also developing competitive programming skills.</h3>
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=surekhadhote&label=Profile%20views&color=0e75b6&style=flat" alt="surekhadhote" /> </p-->
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
